@@ -1,4 +1,4 @@
-# TO RUN THIS ON YOUR PC :-
+# TO RUN THIS :-
 
  - clone the repository
 
